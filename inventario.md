@@ -7,3 +7,4 @@
 - [Schede Madri](./componenti/schede_madri.md)
 
 ## Periferiche
+- [Mouse](./periferiche/mouse.md)
