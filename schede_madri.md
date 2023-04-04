@@ -1,0 +1,8 @@
+2042356
+2046428
+
+# Schede Madri
+
+- MSI PRO H410M-B
+- ASUS TUF B660M-Plus
+- ASUS ROG Strix B660-G
